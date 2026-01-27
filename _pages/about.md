@@ -8,6 +8,7 @@ profile:
   align: right
   image: foto_linkedin.jpg
   image_circular: false # crops the image to make it circular
+  social: true # includes social icons under the profile image
   more_info: >
     <div style="text-align:center;">
       <p><i class="fas fa-map-marker-alt"></i> Zürich, Switzerland</p>
@@ -26,9 +27,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am Lucía, a MSc student in Biomedica Engineering at **ETH Zürich** fully funded by ['la Caixa' foundation](https://becarios.fundacionlacaixa.org/en/lucia-pancorbo-fernandez-B006072) and supported by the ['Rafael del Pino' foundation](https://frdelpino.es/beca/becarios-de-excelencia-rafael-del-pino-2023/). I hold a BSc in Biomedical Engineering from **Carlos III University of Madrid** (2nd in my cohort), with an exchange at **Nanyang Technological University of Singapore**.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My journey in computational research is driven by a passion for developing Machine Learning and Computer Vision frameworks to solve complex challenges in healthcare. I have recently completed two research stays at **Harvard Medical School**, specifically within the [Mahmood Lab](https://faisal.ai/) and the [Athinoula A. Martinos Center for Biomedical Imaging](https://lemon.martinos.org/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My interests lie in `AI for Healthcare`, with a focus on `Computer Vision`, `Medical Image Analysis` and `Data Science`.
