@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-02'
+  last_updated: '2026-03-02'
 papers:
   kPDm7IoAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -18,7 +18,7 @@ papers:
     title: New metric for the characterisation of heterogeneity in cardiac signal propagation using high-density multielectrode catheters
     year: '2023'
   kPDm7IoAAAAJ:d1gkVwhDpl0C:
-    citations: 11
+    citations: 12
     title: Vector field heterogeneity for the assessment of locally disorganised cardiac electrical propagation wavefronts from high-density multielectrodes
     year: '2023'
   kPDm7IoAAAAJ:qjMakFHDy7sC:
